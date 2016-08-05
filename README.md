@@ -1,4 +1,4 @@
-# dataninja-smartcontent-api-java-sdk
+# dataninja-smartcontent-api-sdk-java
 
 The Data Ninja family of services provide content intelligence by analyzing text for natural language understanding.  There are four main groups of services: Smart Content, Smart Sentiment, Smart Data, and Smart Learning.  This repository pertains only to the Smart Content services.  For more information, please visit the Data Ninja website at https://dataninja.net.
 
