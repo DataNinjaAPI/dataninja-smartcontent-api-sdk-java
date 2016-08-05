@@ -1,8 +1,8 @@
 # dataninja-smartcontent-api-java-sdk
 
-The Data Ninja family of services provide content intelligence by analyzing text for natural language understanding.  There are three main groups of services: Smart Content, Smart Data, and Smart Learning.  This repository pertains only to the Smart Content services.  For more information, please visit the Data Ninja website at http://dataiq.io.
+The Data Ninja family of services provide content intelligence by analyzing text for natural language understanding.  There are four main groups of services: Smart Content, Smart Sentiment, Smart Data, and Smart Learning.  This repository pertains only to the Smart Content services.  For more information, please visit the Data Ninja website at https://dataninja.net.
 
-Copyright 2015 DOCOMO Innovations, Inc.
+Copyright 2016 DOCOMO Innovations, Inc.
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
